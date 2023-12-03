@@ -2,6 +2,11 @@
   "compilerOptions": {
     "target": "es5",
     "module": "commonjs",
-    "esModuleInterop": true
-  }
+    "esModuleInterop": true,
+    "outDir": "lib",
+    "strictNullChecks": true
+  },
+  "include": [
+    "src"
+  ]
 }

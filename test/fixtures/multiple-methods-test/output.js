@@ -1,0 +1,10 @@
+import _ from 'lodash-es';
+import { isEqual } from 'lodash-es';
+import { cloneDeep } from 'lodash-es';
+import { throttle } from 'lodash-es';
+import * as lodash from 'lodash-es';
+_.debounce();
+isEqual();
+cloneDeep();
+throttle();
+lodash.get();

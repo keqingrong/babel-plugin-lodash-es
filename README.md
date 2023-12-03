@@ -1,5 +1,9 @@
 # babel-plugin-lodash-es
 
+[![npm version](https://img.shields.io/npm/v/babel-plugin-lodash-es.svg)](https://www.npmjs.com/package/babel-plugin-lodash-es)
+
+Babel plugin for lodash
+
 ## Installation
 
 ```sh
